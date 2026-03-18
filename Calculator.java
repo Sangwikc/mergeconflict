@@ -14,6 +14,9 @@ public class Calculator {
         System.out.println("Subtraction: " + difference);
         System.out.println("Multiplication: " + product);
         System.out.println("Division: " + division);
+
         System.out.println("Division: " + sangwi);
+        System.out.println("Division: " + divin);
+
     }
 }
